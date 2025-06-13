@@ -1,0 +1,14 @@
+﻿{
+  "orderId": "order_001",
+  "customer": {
+    "name": "Alice",
+    "email": "alice@demo.com"
+  },
+  "items": [
+    {
+      "name": "Burger",
+      "quantity": 2,
+      "price": 4.99
+    }
+  ]
+}
